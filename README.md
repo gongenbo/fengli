@@ -1,5 +1,5 @@
 <div align="center">
-    <img  width=180 src="https://gongenbo.github.io/fengli/assets/img/index_logo.png"/>
+    <img  width=180 src="https://raw.githubusercontent.com/gongenbo/fengli/assets/img/index_logo.png"/>
     <h1>✨enbo's Love Code✨<br>❤️对风丽的代码表白❤️</h1> 
 </div>
 
