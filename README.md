@@ -32,19 +32,19 @@
     <td valign="top">
         <a target="_blank" href="https://gongenbo.github.io/fengli/Web/004">
             <p align="center">004</p>
-            <img src="https://raw.githubusercontent.com/gongenbo/fengli/master/assets/img/web/004.jpg"/>
+            <img src="https://raw.githubusercontent.com/gongenbo/fengli/master/assets/img/web/004.png"/>
         </a>
     </td>
     <td valign="top">
         <a target="_blank" href="https://gongenbo.github.io/fengli/Web/005">
             <p align="center">005</p>
-            <img src="https://raw.githubusercontent.com/gongenbo/fengli/master/assets/img/web/005.jpg"/>
+            <img src="https://raw.githubusercontent.com/gongenbo/fengli/master/assets/img/web/005.png"/>
         </a>
     </td>
     <td valign="top">
         <a target="_blank" href="https://gongenbo.github.io/fengli/Web/006">
             <p align="center">006</p>
-            <img src="https://raw.githubusercontent.com/gongenbo/fengli/master/assets/img/web/006.jpg"/>
+            <img src="https://raw.githubusercontent.com/gongenbo/fengli/master/assets/img/web/006.png"/>
         </a>
     </td>
     </tr>
